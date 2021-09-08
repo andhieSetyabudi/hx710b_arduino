@@ -1,7 +1,7 @@
-HX710B
+# HX710B
 Arduino library for Air Pressure Sensor HX710B
 
-Usage
+# Usage
 
 #include "HX710B.h"
 #define SCK_PIN 3
@@ -38,5 +38,6 @@ void loop()
       time_update = millis();            
     }
 }
-License
+
+# License
 MIT
