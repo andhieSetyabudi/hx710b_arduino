@@ -3,6 +3,7 @@ Arduino library for Air Pressure Sensor HX710B
 
 # Usage
 
+```
 #include "HX710B.h"
 #define SCK_PIN 3
 #define SDI_PIN 4
@@ -39,5 +40,6 @@ void loop()
     }
 }
 
+```
 # License
 MIT
