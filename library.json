@@ -13,7 +13,7 @@
         "url": "https://github.com/andhieSetyabudi",
         "maintainer": true
     },
-    "version": "0.1.0",
+    "version": "1.0.0",
     "license": "MIT",
     "frameworks": "arduino",
     "platforms": "*"
